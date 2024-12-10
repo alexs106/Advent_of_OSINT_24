@@ -19,3 +19,5 @@ I could've continued reading the article and found the answer but I decided to j
 **November 16th 1973** or in the format asked **19731116**
 
 Good first challenge to remember the little tweaks about OSINT ! 
+
+**Ranking : 412/1485**
