@@ -16,8 +16,10 @@ I searched **everywhere!**
 
 I found the date around Disney's meetings with Charles Mintz (February 1928) and there was somewhat of a detailed timeline around the whole drama between them but never any specific date... sure the train ride where he supposedly started sketching Mickey Mouse was mentioned but not the exact date so I was growing frustrated.
 
-And then... the holy grail struck and I found this link detailing the date :
+And then... the holy grail struck and I found this link* detailing the date :
 **March 13th 1928**
+
+*https://mouseplanet.com/the-mickey-mouse-creation-myth/4195/
 
 The final question was pretty easy, it just asked what was the title of the first film in which Oswald (the character that Mickey replace) made his appearance in theatres.
 Quick Google search gave me the answer : **Trolley Troubles**

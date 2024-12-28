@@ -20,7 +20,11 @@ After a loooooong search of multiple castles and versions of this famous compani
 He had a castle named Berwarstein. 
 I looked up a map of the castle and found the name of the tower : **Little France** or in it's original german **Klein-Frankreich**
 
-The second question was easier but also hidden in a dark corner of the internet. It asked the names of the two saints engraved in Hans von Trotha's stone.
+The second question was easier but also hidden in a dark corner of the internet*. It asked the names of the two saints engraved in Hans von Trotha's stone.
 
-The grave is located in the Chappel of Sainte-Anne 
+*https://www.ecomusee.alsace/wp-content/uploads/2022/01/hs35-vontrotha.pdf 
 
+The grave is located in the Chappel of Sainte-Anne and the description says that the names of two saints are engraved in the tombstone :
+**Simon and Jude**
+
+**Ranking : 125/472** 
