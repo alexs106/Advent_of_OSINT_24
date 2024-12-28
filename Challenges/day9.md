@@ -18,7 +18,9 @@ Then I had to find the annual commemoration ceremony of 2024 with a simple googl
 
 *https://maquisdelorris.fr/resistance/?page_id=4642
 
-For the second part, based on the date of the annual commemoration which was held on September 15th 2024, I looked up the other performances of the Republican Guard Orchestra from their website.
+For the second part, based on the date of the annual commemoration which was held on September 15th 2024, I looked up the other performances of the Republican Guard Orchestra from their website*.
+
+*https://orchestrechoeur.garderepublicaine.fr/concert/le-choeur-a-belleme/
 
 I started clicking on every concert post the one from Amilly... maybe there was a smarter way of finding the conductor, but this was my way of thinking.
 
