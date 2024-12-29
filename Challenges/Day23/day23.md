@@ -20,4 +20,4 @@ Now I went to a ntf selling website* and started looking for our specific ntf ba
 Now when you go on the website it shows a bunch of information including the current holder :
 **ahopkins.eth** aka **Anthony Hopkins**.
 
-
+**Ranking : 137/194**
