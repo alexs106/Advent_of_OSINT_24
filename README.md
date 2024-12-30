@@ -5,14 +5,14 @@ In this repo I will disclose my thought process and steps to solving the challen
 
 This was a great opportunity to learn about different types of OSINT challenges and also to learn how to use different tools to solve them like:
 
--> Image Reverse Search
--> Website archives (Wayback Machine for example)
--> Who Is websites
--> Databases such as Gallica or INAthèque
+-> Image Reverse Search<br/> 
+-> Website archives (Wayback Machine for example)<br/> 
+-> Who Is websites<br/> 
+-> Databases such as Gallica or INAthèque<br/> 
 
 And many more! 
 
 I can't wait to participate again next year :)
 
-**Final Rank: 64/1716** 
+**Final Rank: 64/1716** <br/> 
 (based on the number of participants from Day 1)
