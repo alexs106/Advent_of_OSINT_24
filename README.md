@@ -1,7 +1,9 @@
 # Writeups Advent of OSINT 2024
 
-This is my first time doing the **Advent of OSINT** proposed by **OSINT4FUN**. 
+This is my first time doing the **Advent of OSINT** proposed by **OSINT4FUN**.<br/> 
 In this repo I will disclose my thought process and steps to solving the challenges, hopefully until the last one :)
+
+----
 
 This was a great opportunity to learn about different types of OSINT challenges and also to learn how to use different tools to solve them like:
 
