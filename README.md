@@ -17,5 +17,4 @@ And many more!
 
 I can't wait to participate again next year :)
 
-**Final Rank: 64/1716** <br/> 
-(based on the number of participants from Day 1)
+**Final Rank: 23/216** <br/> 
